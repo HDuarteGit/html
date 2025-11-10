@@ -14,9 +14,10 @@ header {
 }
 
 .Logo_principal {
-    width: 350px;
-    height: 200px;
+    width: 300px;
+    height: 150px;
     display: block;
+    transform: translateY(-10%);
     border-radius: 20px;
     margin-right: auto;
     margin-left: auto;
@@ -25,15 +26,9 @@ header {
 .elity {
     display: block;
     width: 35px;
-    ;
-
 }
 
 li {
-    padding: 1rem;
-}
-
-nav {
     padding: 1rem;
 }
 
