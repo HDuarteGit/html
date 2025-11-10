@@ -13,13 +13,20 @@ header {
     background-color: rgb(255, 102, 0);
 }
 
-img {
+.Logo_principal {
     width: 350px;
     height: 200px;
     display: block;
     border-radius: 20px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.elity {
+    display: block;
+    width: 35px;
+    ;
+
 }
 
 li {
