@@ -39,11 +39,7 @@ p {
     max-width: 65%;
     margin-left: 18%;
 }
-
-#contacts_container p {
-    text-align: enter;
-}
-
+    
 h1 {
     color: rgb(61, 61, 244);
     text-align: center;
@@ -100,17 +96,19 @@ label {
     display: flex;
 }
 
-textarea {
+textarea{
+
     display: flex;
-    padding: 3rem;
+    padding: 50px;
     border: 2px solid rgb(61, 61, 244);
     border-radius: 10px;
     outline: none;
+    margin-top: 0.5rem;
 }
 
 button {
     width:20%;
-    padding: 4px;
+    padding: 5px;
     border: 2px solid rgb(61, 61, 244);
     border-radius: 5px;
     outline: none;
